@@ -16,7 +16,7 @@ namespace CShapeWinFormHomework01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmHomework1());
+            Application.Run(new FrmHomework4());
         }
     }
 }
